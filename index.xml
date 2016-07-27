@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John&#39;s Book Reviews </title>
+    <link>http://johng.de/</link>
+    <language>en-us</language>
+    <author>John Henri</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-07-27 09:01:53 &#43;0200 CEST</updated>
+
+    
+      
+        <item>
+          <title>zero to one</title>
+          <link>http://johng.de/post/zero-to-one/</link>
+          <pubDate>Wed, 27 Jul 2016 09:01:53 CEST</pubDate>
+          <author>John Henri</author>
+          <guid>http://johng.de/post/zero-to-one/</guid>
+          <description>&lt;p&gt;The book &lt;strong&gt;zero to one&lt;/strong&gt; was a gift I got from my parents
+for Christmas 2015. It is an excellent book to understand
+an entrepreneurial view, like the one from Peter Thiel.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>http://johng.de/post/good-to-great/</link>
+          <pubDate>Tue, 26 Jul 2016 09:01:43 CEST</pubDate>
+          <author>John Henri</author>
+          <guid>http://johng.de/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome book sharing detailed
+analysis on how good companies became great.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
